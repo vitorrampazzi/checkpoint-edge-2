@@ -1,7 +1,7 @@
-##*Vitor Rampazzi Franco*
+#*Vitor Rampazzi Franco*
 ----------------------------
-##*Daniel Brito*
+#*Daniel Brito*
 ----------------------------
-##*Gustavo Borsato*
+#*Gustavo Borsato*
 ----------------------------
-##*Vitor Longaretti*
+#*Vitor Longaretti*
